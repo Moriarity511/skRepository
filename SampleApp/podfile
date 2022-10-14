@@ -1,0 +1,5 @@
+target 'SampleApp' do
+	pod 'AFNetworking'
+	pod 'SDWebImage'
+	pod 'TencentOpenAPI_iOS_V3', '~> 3.5.11' # QQ分享
+end
